@@ -11,7 +11,7 @@ export default class AddPlayer extends Component {
     
     handleSubmit = (event) => {
         event.preventDefault()
-        this.props.addPlayer(this.state.name)        
+        this.props.addPlayer(this.state.name)
     }
 
     handleChange = (event) => {

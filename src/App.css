@@ -7,3 +7,7 @@ header {
 body, input {
   font-family: 'Orbitron', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
+
+.App {
+  background-color: #282c34;
+}
